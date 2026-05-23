@@ -1,0 +1,7 @@
+{
+  "name": "AmzStyle: AI Fashion Stylist",
+  "description": "Upload your photos and let Gemini AI style you with the latest Amazon fashion trends, analyzing your features and preferences to find the perfect look.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
